@@ -41,4 +41,4 @@
 
 ## CONTOH
 
-![DEMO](https://youtu.be/zb5auuxUMm0){width="90%"}
+![DEMO](https://www.youtube.com/watch?v=zb5auuxUMm0){width="90%"}
