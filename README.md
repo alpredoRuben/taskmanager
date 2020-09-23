@@ -41,4 +41,4 @@
 
 ## CONTOH
 
-![DEMO](./demo.mp4)
+![DEMO](https://youtu.be/zb5auuxUMm0){width="90%"}
