@@ -40,6 +40,8 @@
 
 
 ## CONTOH
-[![DEMO](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zb5auuxUMm0)
+
+
+[![Watch Demo Video](https://img.youtube.com/vi/zb5auuxUMm0/maxresdefault.jpg)](https://www.youtube.com/watch?v=zb5auuxUMm0)
 
 
