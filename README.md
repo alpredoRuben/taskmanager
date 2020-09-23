@@ -41,4 +41,4 @@
 
 ## CONTOH
 
-![DEMO](demo.mp4){width="560" height="315"}
+![DEMO](./demo.mp4)
